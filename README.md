@@ -1,2 +1,2 @@
 # Python-Codes
-Repository of all my own Pythong Scripts
+Repository of all my own Python Scripts
